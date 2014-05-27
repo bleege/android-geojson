@@ -33,3 +33,6 @@ local.properties
 *.iml
 .idea/
 gen/
+
+Gradle
+.gradle/
